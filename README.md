@@ -1,3 +1,5 @@
+**Attribution:** This dApp was created by **Marcos (Marcus) A. B**. His GitHub username is [codesport](https://github.com/codesport). He may be reached through [Code Sport Labs](https://codesport.io/contact-us)
+
 # Learning Modules:
 
 Refer to comments in the [Victim](contracts/Victim.sol) and [Attacker](contracts/Attacker.sol)  contracts for detailed notes and tutorials.
@@ -49,4 +51,4 @@ Six learning modules for Blockchain development
  
 1. Create Repo on GitHub from CLI
 
-curl -H "Authorization: token $token" https://api.github.com/user/repos -d '{"name":"reentrancy-attack", "description":"Demonstration and tutorial for reentrancy attack on misplaced call() method", "homepage":"https://youtube.com"}'
+   `curl -H "Authorization: token $token" https://api.github.com/user/repos -d '{"name":"reentrancy-attack", "description":"Demonstration and tutorial for reentrancy attack on misplaced call() method", "homepage":"https://codesport.io/blockchain}'`
